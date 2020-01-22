@@ -1,0 +1,115 @@
+porsche	P O R Ş
+scania	S I K A N Y A
+seat	S E A T	S E Y A T
+skoda	S I K O D A
+Lamborghini	L A M B O R C İ N İ	L A M B O R C İ N
+volkswagen	V O L S V A G E N	V O L K S V A G E N	V O L K S V A G E N
+app connect	E P K O N N E K T	E P K O N N E K
+car play	K A R P İ L E Y
+play store	P İ L E Y S I T O R
+apple store	E P I L S I T O R
+smart link	S I M A R T L İ N K
+connect	K O N N E K T	K O N N E K
+ibiza	İ B İ Z A
+toledo	T O L E D O
+leon	L E O N
+leon st	L E O N S E T E	L E O N E S T İ
+leon cupra	L E O N K U P R A
+ateca	A T E K A
+arona	A R O N A
+fabia	F A B Y A
+rapid	R A P I D
+spaceback	S İ P E Y S B E K
+octavia	O K T A V Y A
+kodiaq	K O D Y A K
+superb	S U P E R B E	S U P E R B İ	S U P I R B İ
+a bir	A B İ R
+a üç	A Ü Ç
+s üç	S E Ü Ç	E S Ü Ç
+a dört	A D Ö R T
+a beş	A B E Ş
+a altı	A A L T I
+a yedi	A Y E D İ
+a sekiz	A S E K İ Z
+s sekiz	S S E K İ Z	E S S E K İ Z
+q iki	K Ü İ K İ
+q üç	K Ü Ü Ç
+q beş	K Ü B E Ş
+q yedi	K Ü Y E D İ
+airbag	E İ R B E G	E Y İ R B E G
+aks	A K S
+akü	A K Ü
+amortisör	A M O R T İ S Ö R
+balata	B A L A T A
+bijon	B İ J O N
+buji	B U J İ
+debriyaj	D E B R İ Y A J
+direksiyon	D İ R E K S İ Y O N
+disk	D İ S K
+eksoz	E K S O Z	E G Z O S	E K Z O S
+el freni	E L F İ R E N İ
+enjektör E N J E K T Ö R
+filtre	F İ L T R E	F İ T R E
+fren	F İ R E N
+karter	K A R T E R
+kavrama	K A V R A M A
+klima	K I L İ M A
+kompresör	K O M P R E S Ö R	K O M P E S Ö R
+lamba	L A M B A 
+lastik	L A S T İ K
+marş	M A R Ş
+mekatronik	M E K A T R O N İ K	M E K A T İ R O N İ K
+motor	M O T O R
+partikül	P A R T İ K Ü L	P A R T Ü K Ü L
+pompa	P O M P A
+silindir	S İ L İ N D İ R
+süspansiyon	S Ü S P A N S İ Y O N	S Ü S P A N S Ü Y O N
+şanzıman	Ş A N Z I M A N	Ş A N Z U M A N
+vites	V İ T E S
+start	S I T A R T
+stop	S I T O P	S İ T O P	İ S T O P
+online	O N L A Y N
+facebook	F E Y S B U K
+facebooktan	F E Y S B U K T A N
+facebookta	F E Y S B U K A
+twitter	T İ V İ T I R
+twitterda	T İ V İ T I R D A
+twitterdan	T İ V İ T I R D A N
+twittera	T İ V İ T I R A
+instagram	İ N S T E G R A M
+instagrama	İ N S T E G R A M A
+instagramda	İ N S T E G R A M D A
+instagramdan	İ N S T E G R A M D A N
+mail	M E Y İ L
+web	V E B
+webte	V E B T E
+webten V E B T E N
+kredi	K I R E D İ
+kronik K I R O N İ K
+abs	A B E S E
+caddy	K E D İ
+exclusive	E K S K U L U S İ V
+caravelle	K A R A V E L L E
+caravellemiz	K A R A V E L L E M İ Z
+caravellenin	K A R A V E L L E N İ N
+dsg	D E S E G E
+euro	Y U R O	Y Ü R O
+frenini	F İ R E N İ N İ
+frenlerden	F İ R E N L E R D E N
+full	F U L
+hyundai H U N D A Y
+ötv	Ö T E V E
+passat	P A S S A T	P A S A T
+plaka	P İ L A K A
+plakalı	P İ L A K A L I
+plakanızı	P İ L A K A N I Z I
+plakasını	P İ L A K A S I N I
+plakayı	P İ L A K A Y I
+planlamasına	P İ L A N L A M A S I N A
+planlamasını	P İ L A N L A M A S I N I
+scirocco	Ş İ R O K K O	S İ K İ R O K K O
+showroom	Ş O V R U M
+showroomu	Ş O V R U M U
+stepne	S İ T E P N E
+şoför	Ş O F Ö R	Ş Ö F Ö R
+video	V İ D E O	V İ D Y O
